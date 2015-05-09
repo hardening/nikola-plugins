@@ -31,7 +31,6 @@ from nikola.plugin_categories import Command
 import webbrowser
 
 
-
 class WebAppCoilAdvertisement(Command):
 
     name = "webapp"
